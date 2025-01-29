@@ -1,0 +1,11 @@
+---
+title: "archive"
+output:
+  pdf_document: default
+---
+
+### List :
+
+getwd()  
+
+> "C:/Users/Windows10/Desktop/testing/second"
